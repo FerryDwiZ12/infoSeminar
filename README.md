@@ -1,4 +1,6 @@
-# Seminar app 
+# Seminar app
+
+[!NOTED] : this is my learn MERN project
 
 this project for infomation about events knowlage !
 

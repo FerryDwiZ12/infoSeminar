@@ -1,4 +1,5 @@
 const Images = require("../../api/v1/images/model");
+const {NotFoundError} = require('../../errors')
 
 // generate url setelah submit baru kira simpen Images
 
